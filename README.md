@@ -1,6 +1,8 @@
 # IntStackClassDemo
 This program illustrates the IntStack class.
 
+Output:
+
 ![p](https://github.com/bell-kevin/IntStackClassDemo/blob/main/picture.PNG)
 
 == We're Using GitHub Under Protest ==
